@@ -4,5 +4,5 @@
 
 def roll
   dice_numbers = [1, 2, 3, 4, 5, 6]
-  
+  dice_numbers.sample
 end
